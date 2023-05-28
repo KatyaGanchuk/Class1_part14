@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+int main() {
+ int a, b;
+ cout << "number is more 999";
+ cin >> a;
+ cout << endl;
+ 
+ b = a % 10000/1000;
+ cout <<"one thousand"<< b;
+}
