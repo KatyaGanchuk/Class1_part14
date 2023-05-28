@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+int main() {
+ int K, m ;
+ cout <<"integer(1-365)";
+ cin >> K;
+ m = K% 7;
+ cout <<"number of the day of the week"<< m;
+}
+    
