@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+int main() {
+ int N, m;
+ cout << "Secundu";
+ cin >> N;
+ cout << endl;
+ m = N/60;
+ cout <<"Munut"<< m;
+}
